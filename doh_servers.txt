@@ -10,15 +10,12 @@
 0.0.0.0 dns.aaflalo.me
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns.containerpi.com
-0.0.0.0 dns.containerpi.com
-0.0.0.0 dns.containerpi.com
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.google.com
 0.0.0.0 dns.google
-0.0.0.0 dns.hostux.net
 0.0.0.0 dns.hostux.net
 0.0.0.0 dns.nextdns.io
 0.0.0.0 dns.quad9.net
@@ -44,8 +41,6 @@
 0.0.0.0 doh.crypto.sx
 0.0.0.0 doh.dns.sb
 0.0.0.0 doh.dnslify.com
-0.0.0.0 doh.dnswarden.com
-0.0.0.0 doh.dnswarden.com
 0.0.0.0 doh.dnswarden.com
 0.0.0.0 doh.eastus.pi-dns.com
 0.0.0.0 doh.familyshield.opendns.com

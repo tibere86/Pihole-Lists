@@ -59,6 +59,7 @@
 0.0.0.0 doh-fi.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh.42l.fr
+0.0.0.0 doh.dns.apple.com
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.armadillodns.net

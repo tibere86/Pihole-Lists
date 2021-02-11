@@ -14,3 +14,4 @@
 ^stat(s|istics)?[0-9]*[_.-]
 ^track(ing)?[0-9]*[_.-]
 (\.|^)online-metrix\.net$
+(\.|^)clarity\.ms$

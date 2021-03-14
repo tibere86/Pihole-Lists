@@ -18,6 +18,7 @@
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns.alidns.com
+0.0.0.0 dns.cloudflare.com
 0.0.0.0 dns.containerpi.com
 0.0.0.0 dns.decloudus.com
 0.0.0.0 dns.developer.li
@@ -125,6 +126,7 @@
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 odvr.nic.cz
+0.0.0.0 one.one.one.one
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 ordns.he.net
 0.0.0.0 pdns.faelix.net
@@ -139,3 +141,4 @@
 0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 use-application-dns.net
 0.0.0.0 us1.dns.lavate.ch
+0.0.0.0 1dot1dot1dot1.cloudflare-dns.com

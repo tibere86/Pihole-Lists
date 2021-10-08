@@ -178,6 +178,8 @@
 0.0.0.0 a.family.ns.dnslify.com
 0.0.0.0 b.family.ns.dnslify.com
 0.0.0.0 kracon.anycast.censurfridns.dk
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
 0.0.0.0 rgnet-iad.anycast.censurfridns.dk
 0.0.0.0 unicast.censurfridns.dk
 0.0.0.0 anycast.uncensoreddns.org

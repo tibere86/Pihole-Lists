@@ -19,7 +19,6 @@
 0.0.0.0 doh.abmb.win
 0.0.0.0 doh2.abmb.win
 0.0.0.0 dns.adguard.com
-0.0.0.0 dns.alekberg.net
 0.0.0.0 dns.alidns.com
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 dns.containerpi.com
@@ -46,7 +45,6 @@
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns1.dnscrypt.ca
-0.0.0.0 dns2.alekberg.net
 0.0.0.0 dns2.developer.li
 0.0.0.0 dns2.digitale-gesellschaft.ch
 0.0.0.0 dns2.dnscrypt.ca

@@ -77,6 +77,7 @@
 0.0.0.0 doh.captnemo.in
 0.0.0.0 doh.crypto.sx
 0.0.0.0 doh.defaultroutes.de
+0.0.0.0 doh.disconnect.app
 0.0.0.0 doh.dns.sb
 0.0.0.0 doh.dnslify.com
 0.0.0.0 doh.dnswarden.com

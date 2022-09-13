@@ -265,5 +265,4 @@
 0.0.0.0 dns.therifleman.name
 0.0.0.0 doh.this.web.id
 0.0.0.0 firefox.dns.nextdns.io
-0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com

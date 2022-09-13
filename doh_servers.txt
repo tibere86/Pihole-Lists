@@ -266,3 +266,13 @@
 0.0.0.0 doh.this.web.id
 0.0.0.0 firefox.dns.nextdns.io
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
+0.0.0.0 dns.adguard-dns.com
+0.0.0.0 family.adguard-dns.com
+0.0.0.0 unfiltered.adguard-dns.com
+0.0.0.0 dot.libredns.gr
+0.0.0.0 family.freedns.controld.com
+0.0.0.0 uncensored.freedns.controld.com
+0.0.0.0 dandelionsprout.asuscomm.com
+0.0.0.0 basic.rethinkdns.com
+0.0.0.0 max.rethinkdns.com
+0.0.0.0 anycast.dns.nextdns.io

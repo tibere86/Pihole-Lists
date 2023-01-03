@@ -25,14 +25,12 @@
 0.0.0.0 dns.decloudus.com
 0.0.0.0 dns.developer.li
 0.0.0.0 dns.digitale-gesellschaft.ch
-0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnshome.de
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.google.com
 0.0.0.0 dns.google
 0.0.0.0 dns.hostux.net
-0.0.0.0 dns.mrkaran.dev
 0.0.0.0 dns.nextdns.io
 0.0.0.0 dns.oszx.co
 0.0.0.0 dns.quad9.net
@@ -54,7 +52,6 @@
 0.0.0.0 dns64.cloudflare-dns.com
 0.0.0.0 dns64.dns.google
 0.0.0.0 dns9.quad9.net
-0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsforge.de
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsovertls.sinodun.com

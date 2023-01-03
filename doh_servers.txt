@@ -197,7 +197,6 @@
 0.0.0.0 dns.east.comss.one
 0.0.0.0 dns-doh.dnsforfamily.com
 0.0.0.0 dns-dot.dnsforfamily.com
-0.0.0.0 dns.cfiec.net
 0.0.0.0 asia.dnscepat.id
 0.0.0.0 eropa.dnscepat.id
 0.0.0.0 doh.360.cn
@@ -207,10 +206,8 @@
 0.0.0.0 dot.pub
 0.0.0.0 kaitain.restena.lu
 0.0.0.0 getdnsapi.net
-0.0.0.0 dns.larsdebruin.net
 0.0.0.0 ns1.dnsprivacy.at
 0.0.0.0 ns2.dnsprivacy.at
-0.0.0.0 dns.bitgeek.in
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 tls-dns-u.odvr.dns-oarc.net
@@ -226,7 +223,6 @@
 0.0.0.0 dot.eastau.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
 0.0.0.0 dot.eastas.pi-dns.com
-0.0.0.0 doh.pi-dns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
@@ -235,7 +231,6 @@
 0.0.0.0 p3.freedns.controld.com
 0.0.0.0 doh.mullvad.net
 0.0.0.0 adblock.doh.mullvad.net
-0.0.0.0 dns.arapurayil.com
 0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 dot.xfinity.com

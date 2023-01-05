@@ -2,6 +2,7 @@ img.vidible.tv
 androidtvwatsonfe-pa.googleapis.com
 debug.opendns.com
 femetrics.grammarly.io
+f-log-win-extension.grammarly.io
 mask.icloud.com
 mask-h2.icloud.com
 use-application-dns.net

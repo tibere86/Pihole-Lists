@@ -12,5 +12,3 @@
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 test.huedatastore.com
 0.0.0.0 data.meethue.com
-0.0.0.0 ota-downloads.nvidia.com
-0.0.0.0 ota.nvidia.com

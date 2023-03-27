@@ -1,5 +1,6 @@
 0.0.0.0 img.vidible.tv
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 debug.opendns.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 f-log-win-extension.grammarly.io

@@ -1,14 +1,14 @@
-0.0.0.0 img.vidible.tv
-0.0.0.0 androidtvwatsonfe-pa.googleapis.com
-0.0.0.0 androidtvchannels-pa.googleapis.com
-0.0.0.0 debug.opendns.com
-0.0.0.0 femetrics.grammarly.io
-0.0.0.0 f-log-win-extension.grammarly.io
-0.0.0.0 mask.icloud.com
-0.0.0.0 mask-h2.icloud.com
-0.0.0.0 use-application-dns.net
-0.0.0.0 log.samsunghrm.com
-0.0.0.0 info.cspserver.net
-0.0.0.0 diagnostics.meethue.com
-0.0.0.0 test.huedatastore.com
-0.0.0.0 data.meethue.com
+img.vidible.tv
+androidtvwatsonfe-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
+debug.opendns.com
+femetrics.grammarly.io
+f-log-win-extension.grammarly.io
+mask.icloud.com
+mask-h2.icloud.com
+use-application-dns.net
+log.samsunghrm.com
+info.cspserver.net
+diagnostics.meethue.com
+test.huedatastore.com
+data.meethue.com

@@ -4,3 +4,4 @@ yt3.ggpht.com
 i.ytimg.com
 youtubei.googleapis.com
 www.youtube.com
+aerial-videos.netlify.app

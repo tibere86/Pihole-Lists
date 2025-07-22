@@ -12,3 +12,5 @@ info.cspserver.net
 diagnostics.meethue.com
 test.huedatastore.com
 data.meethue.com
+ota-downloads.nvidia.com
+ota.nvidia.com
